@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="LUD_vno6Q2lVLIHfJenkN6qSzC-_FAvHmUkfpEdHwEM" />
 # AdFreezer - Content Blocker by Henrik Tenderson
 
 Features:
