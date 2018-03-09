@@ -1,6 +1,6 @@
 AdFreezer - Privacy Policy
 
-```
+
 Disclaimer Google Analytics
 This extension uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). 
 Google Analytics uses “cookies”, which are text files placed on your computer, 
@@ -25,7 +25,6 @@ You can also opt-out from being tracked by Google Analytics with effect for the 
 by downloading and installing Google Analytics Opt-out Browser Addon for your current web browser:
 http://tools.google.com/dlpage/gaoptout?hl=en or you can uninstall this extension. Thank you.
 
-```
 
 
 Version: 2.0.0.1-Beta
