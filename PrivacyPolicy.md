@@ -22,7 +22,8 @@ selecting the appropriate settings on your browser, however please note that if 
 do this you may not be able to use the full functionality of this website. 
 
 You can also opt-out from being tracked by Google Analytics with effect for the future 
-by downloading and installing Google Analytics Opt-out Browser Addon for your current web browser: http://tools.google.com/dlpage/gaoptout?hl=en or you can uninstall this extension. Thank you.
+by downloading and installing Google Analytics Opt-out Browser Addon for your current web browser:
+http://tools.google.com/dlpage/gaoptout?hl=en or you can uninstall this extension. Thank you.
 
 ```
 
